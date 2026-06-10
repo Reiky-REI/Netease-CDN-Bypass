@@ -1,0 +1,25 @@
+{
+  "name": "netease-cdn-bypass",
+  "version": "1.0.0",
+  "description": "Netease-CDN-Bypass - 绕过NetEase CDN防盗链的音乐API解决方案",
+  "main": "direct.js",
+  "scripts": {
+    "start": "node direct.js",
+    "web": "node web.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "netease",
+    "music",
+    "api",
+    "proxy",
+    "cdn",
+    "bypass",
+    "anti-hotlink"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
