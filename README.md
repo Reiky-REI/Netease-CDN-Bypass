@@ -205,3 +205,7 @@ Visit http://localhost:3003 to:
 ## 📄 License
 
 MIT
+
+## Thanks
+
+- [Linux.do](https://linux.do) community
