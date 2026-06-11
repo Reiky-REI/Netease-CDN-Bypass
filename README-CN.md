@@ -318,3 +318,7 @@ npm run web
 ## 📄 License
 
 MIT
+
+## 鸣谢
+
+- [Linux.do](https://linux.do/) 社区
